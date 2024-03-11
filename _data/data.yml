@@ -8,27 +8,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Brian Crockett
+    tagline: Director of DevOps | DevOps Architect
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: brian.e.crockett@gmail.com
+    phone: 804.205.2538
+    timezone: America/Eastern Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+#    website: blog.webjeda.com #do not add http://
+    linkedin: brian-e-crockett
+#    xing: alandoe
+    github: TheCrockett
+#    telegram: # add your nickname without '@' sign
+#    gitlab:
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
+#    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -36,230 +36,244 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
         - idiom: Spanish
-          level: Professional
+          level: Beginner
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - item: Irie Tree Band
+          link: https://www.irietreeband.com
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    title: Education
-    info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      As an Engineering Leader with 24 years of distinguished experience primarily in the
+      Healthcare space, I specialize in Technical Operations, DevOps, and IT Management. My
+      expertise encompasses a comprehensive understanding of software development team
+      dynamics and a steadfast commitment to meeting organizational needs with precision,
+      effectiveness, and efficiency. Over 15 years of my career have been devoted to technical
+      excellence, covering a wide range of roles that include managing diverse cloud
+      environments, operating systems, and servers, as well as designing robust security and
+      network infrastructures. I am keen to leverage my extensive knowledge and multifaceted
+      skill set to excel in technology leadership positions.
+
+      Thank you for considering my application. I am excited to share highlights of my
+      engineering leadership achievements combined with the depth of my technical expertise
+      from past roles, demonstrating my potential to contribute significantly to your team.
+#education:
+#    title: Education
+#    info:
+#      - degree: MSc in Computer Science
+#        university: University of London
+#        time: 2011 - 2012
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
+#      - degree: BSc in Applied Mathematics
+#        university: Bristol University
+#        time: 2007 - 2011
+#        details: |
+#          Describe your study here lorem ipsum dolor sit amet, consectetuer
+#          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#          sociis natoque penatibus et magnis dis parturient montes, nascetur
+#          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#          pretium quis, sem.
+#            - Bullet point
+#            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Manager of DevOps (Remote)
+        time: 9-2022 -11-2023
+        company: Broadlume - Harrison, NY
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Over the course of my tenure, the Configuration Management, IT, and Security teams
+          gradually came under my leadership in addition to DevOps. I managed all aspects of engineering
+          operations teams including staffing, technology, budget, and strategic planning to align
+          technological initiatives with business goals.
+            - Led operational teams to deliver modernization projects, achieving a 50% increase in
+          client satisfaction and a 75% improvement in project delivery efficiency.
+            - Spearheaded multiple cloud migration initiatives for financial services arm of
+          organization leading clients to leveraging AWS, resulting in an average 40% reduction
+          in client operational costs.
+            - Mentored and developed 20+ independent consultants on behalf of clients,
+          solidifying the Broadlume's capabilities in AI and machine learning solutions.
+            - Created a comprehensive monitoring and incident management strategy using
+          monitoring tools (e.g., Datadog, Nagios) leading to a MTTR reduction of over 90% of its
+          original duration, drastically enhancing system reliability and operational agility.
+            - Developed and standardized engineering practices and policies (e.g. ECS, AWS Copilot,
+          Containers/Docker, RDS, Bash, Python, Terraform & Cloudformation), unifying all seven
+          business acquisitions to operate under a unified Broadlume organization.
+      - role: Engineering Manager (Remote)
+        time: December 2021 - June 2022
+        company: Genasys -  San Diego, CA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Managed the Zonehaven public safety engineering web application team, overseeing Development, 
+          DevOps, and QA teams. Ensured precise delivery timelines and organizational priorities were maintained.
+            - Facilitated the transition of the Genasys Engineering organization to collaborate
+          effectively with the newly formed Product team, enhancing product development
+          lifecycle efficiency.
+            - Managed the seamless integration of Zonehaven, an acquired business unit, into the
+          Genasys parent organization, aligning technologies and processes to central corporate
+          standards, including syncroninzation of EVAC & Aware product lines to deliver cross-platform 
+          integrated features.
+            - Directed project personnel activities, ensuring milestones and deliverables were met on
+          schedule, contributing to a 70% improvement in project delivery predictability.
+            - Negotiated effectively with project stakeholders to secure necessary resources, thereby
+          avoiding project delays and accelerating timelines by 30%.
+      - role: Director of DevOps (Remote)
+        time: March 2018 - September 2021
+        company: EdLogics -  VA Beach, VA
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Oversaw all AWS cloud, SaaS and office systems, spearheading the formation of the inaugural DevOps, Release 
+          Management, and Security divisions. Crafted comprehensive technical operational standards and methodologies, 
+          laying the groundwork for systematic and efficient processes across the organization.
+            - Achieved a 25% reduction in AWS expenditures within the first 60 days of tenure
+          without compromising service quality or availability.
+            - Led a strategic initiative that resulted in a 90% reduction in the organization's exposure
+          footprint within six months, significantly strengthening the security posture.
+            - Executed migration project from ClearData MSP to in-house hosting, successfully
+          bolstering internal flexibility and data management with an operational cost reduction
+          of 30%
+            - Championed the organization's initial Project Management Office (PMO), establishing
+          group priorities and project alignment with strategic goals resulting in 80% increase in
+          accuracy on feature delivery projections
+      - role: Senior Systems Engineer (Remote)
+        time: February 2015 - January 2018
+        company: Verisk Health
+        details: |
+          Served as a key co-architect for the Infrastructure, DevOps, and Release Management teams, overseeing and guiding strategic initiatives
+            - Spearheaded and executed numerous infrastructure projects to facilitate the divestiture of Verisk Health from Verisk Analytics, 
+          showcasing leadership in complex organizational transitions.
+            - Acted as the organizational point person for all virtualization infrastructure, driving advancements in system efficiency and reliability.
+            - Led as Project Manager and Technical Lead on various high-stakes data center storage array consolidation projects, achieving over $1 million in support cost savings.
+          project saving organization 1M+ in support costs
+            - Managed and provided technical leadership for several data center hardware refresh initiatives, ensuring modernization and optimal performance.
+            - Orchestrated the transition from TFS to GIT for the DevOps/Config Management teams, enhancing collaboration and version control processes.
+            - Designed the initial AWS environments and scalable workloads, aligning with HIPAA standards and ensuring compliance in healthcare-related operations.
+          Architect for initial ​AWS​​environments & scalable workloads for compliance with HIPAA
+            - Introduced a PM methodology within the DevOps/Infrastructure spheres by utilizing a Kanban board for effective project intake and management prioritization.
+            - Established a standardized stack for organizational DevOps teams, promoting consistency and best practices across technological deployments.
+
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        - name: Network + 
+#          start: 11-2021
+#          end:
+          organization: CompTIA
+        - name: AWS Certified Solutions Architect - Associate
+ #         start: 11-2021
+  #        end:
+          organization: Amazon
+#          credentialid: 111-222
+ #         credentialurl: www.github.com
+  #        credentialname: Github
+   #       details: |
+    #        Older certification. Lorem ipsum dolor sit amet, consectetur
+     #       adipiscing elit.
+      #      Nullam eget orci purus. Nullam ultrices neque nibh.
+       #     Aenean fermentum, felis vulputate suscipit accumsan,
+       #     sem enim bibendum augue, sed convallis arcu lacus at dui.
+       #     Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+       #     Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+       #     Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#oss:
+#    title: OSS Contributions
+#    intro: >
+#      You can list your open source software contributions in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    contributions:
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"#
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: AWS Services (EC2, S3, RDS, Lambda, VPC, API Gateway)
+        level: 100%
+      - name: DevOps Tools (Jenkins, Terraform, Ansible)
+        level: 100%
+      - name: Build/Release Tools (Artifactory, Nexus, Selenium, CodeClimate, Dependabot)
+        level: 100%
+      - name: Containerization & Orchestration (Docker, Kubernetes)
+        level: 97%
+      - name: Programming (Python, Bash)
         level: 85%
+      - name: Alerting & Monitoring (DataDog, Nagios, CloudWatch)
+        level: 100%
+      - name: Development Methodologies (Agile, Scrum, Waterfall, Test-Driven, C/C++/C#, .NET, Java, Python, Ruby)
+        level: 90%
+      - name: Infrastructure Tools (AWS, GCP, On-Prem, VMware, Xen, ProxMox, Cisco, Juniper, Palo Alto, DellEMC, HP)
+        level: 100%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
