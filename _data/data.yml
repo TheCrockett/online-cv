@@ -117,6 +117,8 @@ experiences:
             - Developed and standardized engineering practices and policies (e.g. ECS, AWS Copilot,
           Containers/Docker, RDS, Bash, Python, Terraform & Cloudformation), unifying all seven
           business acquisitions to operate under a unified Broadlume organization.
+            - Personally reverse-engineered numerous legacy deployments and build processes, standardizing 
+          them into a unified Docker/ECS deployment methodology to enhance efficiency and consistency across the organization.
       - role: Engineering Manager (Remote)
         time: December 2021 - June 2022
         company: Genasys -  San Diego, CA
