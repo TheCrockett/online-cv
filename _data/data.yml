@@ -276,8 +276,10 @@ skills:
         level: 100%
       - name: Containerization & Orchestration (Docker, Kubernetes)
         level: 97%
-      - name: Programming (Python, Bash)
-        level: 85%
+      - name: Programming (Python, Java, PHP)
+        level: 65%
+      - name: Scripting (Bash, Python, Perl, PowerShell)
+        level: 95%
       - name: Alerting & Monitoring (DataDog, Nagios, CloudWatch)
         level: 100%
       - name: Development Methodologies (Agile, Scrum, Waterfall, Test-Driven, C/C++/C#, .NET, Java, Python, Ruby)
