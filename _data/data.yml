@@ -119,6 +119,8 @@ experiences:
           business acquisitions to operate under a unified Broadlume organization.
             - Personally reverse-engineered numerous legacy deployments and build processes, standardizing 
           them into a unified Docker/ECS deployment methodology to enhance efficiency and consistency across the organization.
+            - Led the initiative for SOC 2 audit preparation, crafting infrastructure and application roadmaps that successfully reduced 
+          security exposure by 70%, ensuring compliance and bolstering security measures.
       - role: Engineering Manager (Remote)
         time: December 2021 - June 2022
         company: Genasys -  San Diego, CA
@@ -169,6 +171,35 @@ experiences:
           Architect for initial ​AWS​​environments & scalable workloads for compliance with HIPAA
             - Introduced a PM methodology within the DevOps/Infrastructure spheres by utilizing a Kanban board for effective project intake and management prioritization.
             - Established a standardized stack for organizational DevOps teams, promoting consistency and best practices across technological deployments.
+      - role: Build/Release DevOps Engineer
+        time: February 2015 - January 2018
+        company: Royall & Company, Richmond VA    
+        details: |
+          Pioneering the role as the organization's first build/release engineer where I developed the initial AWS infrastructure and scalable cloud transition strategies, 
+          was later highlighted by the CTO of EAB as a significant factor in the organization's acquisition, underscoring the strategic value of their contributions to the 
+          company's cloud computing capabilities and overall technological advancement.
+            - Primary​ ​liaison​ ​between​ ​Engineering​ ​and​ ​IT​ ​Departments
+            - Worked​ ​deeply​ ​with​ ​Java​ ​developers​ ​to​ ​create​ ​standards​ ​for​ ​scalablility
+            - Created​ ​fully​ ​redundant​ ​infrastructure​ ​to​ ​application​ ​stack​ ​for​ ​LAMP,​ ​Java,​ ​etc.
+            - Developed​ ​DevOps​ ​SaaS/PaaS​ ​infrastructure
+            - Developed​ ​DevOps​ ​Java​ ​software​ ​release​ ​infrastructure using tools such as Jenkins, Ansible and OpenStack internally 
+            - Created​ ​accurate​ ​code​ ​testing​ ​environment​ ​by​ ​creating​ ​on-demand​ ​environment​ ​creation.
+      - role: Lead​ ​IT​ ​Systems​ ​Administrator
+        time: December 2008 - February 2015
+        company: Royall & Company, Richmond VA    
+        details: |
+            - Developed,​ ​Administered​ ​and​ ​Maintained​ ​IT​ ​Documentation​ ​Repository
+            - Primary​ ​Documentation​ ​Writer​ ​for​ ​Current​ ​and​ ​Past​ ​projects
+            - Maintained​ ​Email​ ​system​ ​peaking​ ​at​ ​6,000,000+​ ​Messages​ ​daily
+            - Primary​ ​Liaison​ ​between​ ​IT​ ​Operations​ ​and​ ​Engineering​ ​Departments
+            - Managed​ ​build​ ​out​ ​of​ ​new​ ​Development​ ​and​ ​Staging​ ​environments
+            - Created,​ ​Engineered​ ​and​ ​documented​ ​all​ ​Linux​ ​&​ ​VMware​ ​Processes
+            - Supervised​ ​SAN​ ​Migrations​ ​while​ ​minimizing​ ​downtime
+            - Supervised​ ​team​ ​of​ ​4​ ​System​ ​Administrators/Database​ ​Administrators
+            - Ensured​ ​full​ ​knowledge​ ​transfer​ ​when​ ​promoted​ ​out​ ​of​ ​IT
+            - Migrated​ ​mission​ ​critical​ ​enterprise​ ​functionality​ ​to​ ​AWS
+            - Standardized/Stabalized​ ​Java​ ​processes
+            - Implemented​ ​initial​ ​adoption​ ​of​ ​DevOps​ ​methods
 
 
 certifications:
