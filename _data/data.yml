@@ -300,27 +300,27 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Technical Leadership (Team building, Project and Resource management, Cross-functional collaboration, Process optimization)
-        level: 90%
+        #level: 90%
       - name: Compliance Frameworks (SOC2, HITRUST, PCI)
-        level: 90%
+        #level: 90%
       - name: AWS Services (EC2, S3, RDS, Lambda, VPC, API Gateway, CloudFormation, CloudFront)
-        level: 100%
+        #level: 100%
       - name: DevOps Tools (Jenkins, Terraform, Ansible)
-        level: 100%
+        #level: 100%
       - name: Build/Release Tools (Artifactory, Nexus, Selenium, CodeClimate, Dependabot)
-        level: 100%
+        #level: 100%
       - name: Containerization & Orchestration (Docker, Kubernetes)
-        level: 97%
+        #level: 97%
       - name: Programming (Python, Java, PHP)
-        level: 65%
+        #level: 65%
       - name: Scripting (Bash, Python, Perl, PowerShell)
-        level: 95%
+        #level: 95%
       - name: Alerting & Monitoring (DataDog, Nagios, CloudWatch)
-        level: 100%
+        #level: 100%
       - name: Development Methodologies (Agile, Scrum, Waterfall, Test-Driven, C/C++/C#, .NET, Java, Python, Ruby)
-        level: 90%
+        #level: 90%
       - name: Infrastructure Tools (AWS, GCP, On-Prem, VMware, Xen, ProxMox, Cisco, Juniper, Palo Alto, DellEMC, HP)
-        level: 100%
+        #level: 100%
 
 #footer: >
 #    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
