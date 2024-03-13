@@ -300,8 +300,10 @@ skills:
     title: Skills &amp; Proficiency
     toolset:
       - name: Technical Leadership (Team building, Project and Resource management, Cross-functional collaboration, Process optimization)
-        level: 90%    
-      - name: AWS Services (EC2, S3, RDS, Lambda, VPC, API Gateway)
+        level: 90%
+      - name: Compliance Frameworks (SOC2, HITRUST, PCI)
+        level: 90%
+      - name: AWS Services (EC2, S3, RDS, Lambda, VPC, API Gateway, CloudFormation, CloudFront)
         level: 100%
       - name: DevOps Tools (Jenkins, Terraform, Ansible)
         level: 100%
