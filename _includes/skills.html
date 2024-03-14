@@ -15,11 +15,7 @@
     {% for skill in skills.toolset %}
     <div class="item">
       <h3 class="level-title">{{ skill.name }}</h3>
-            <meter class="level-bar" max="100" value="{{ skill.level }}">
-                <!-- Used for older browsers who do not recognize the meter element -->
-                {% assign percentageStyle = 'width: ' | append: skill.level | append: '%' %}
-                <span style="width: 85%"></span>
-            </meter>
+            <meter class="level-bar" max="100" value="{{ skill.level }}"></meter>
     </div><!--//item-->
     {% endfor %}
 
