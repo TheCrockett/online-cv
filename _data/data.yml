@@ -298,6 +298,13 @@ projects:
 
 skills:
     title: Skills &amp; Proficiency
+    details: |
+        - Developed,​ ​Administered​ ​and​ ​Maintained​ ​IT​ ​Documentation​ ​Repository
+        - Primary​ ​Documentation​ ​Writer​ ​for​ ​Current​ ​and​ ​Past​ ​projects
+        - Maintained​ ​Email​ ​system​ ​peaking​ ​at​ ​6,000,000+​ ​Messages​ ​daily
+        - Primary​ ​Liaison​ ​between​ ​IT​ ​Operations​ ​and​ ​Engineering​ ​Departments
+        - Managed​ ​build​ ​out​ ​of​ ​new​ ​Development​ ​and​ ​Staging​ ​environments
+    
     toolset:
       - name: Technical Leadership (Team building, Project and Resource management, Cross-functional collaboration, Process optimization)
         level: 90
